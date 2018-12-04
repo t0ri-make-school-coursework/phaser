@@ -4,7 +4,7 @@ let platforms;
 let player;
 let cursors;
 let stars;
-let bombs;
+let bombs;g
 let score = 0;
 let scoreText;
 
